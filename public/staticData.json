@@ -1,0 +1,981 @@
+{
+    "presentationCenter": {
+        "address": "5594 Fraser Street, Vancouver",
+        "mapUrl": "https://www.google.com/maps/place/5594+Fraser+St,+Vancouver,+BC+V5W+2Z4/@49.2338519,-123.0925656,17z/data=!3m1!4b1!4m5!3m4!1s0x54867411842f2e07:0x8a9d6bbe52ac412f!8m2!3d49.2338484!4d-123.0903769",
+        "note": "( Open by Appointment )"
+    },
+    "siteMenu": [
+        {
+            "title": "Location",
+            "slug": "location"
+        },
+        {
+            "title": "Homes",
+            "slug": "/homes"
+        },
+        {
+            "title": "Passive House Design",
+            "slug": "/passive-built"
+        },
+        {
+            "title": "Team",
+            "slug": "/our-team"
+        },
+        {
+            "title": "Gallery",
+            "slug": "/gallery"
+        }
+    ],
+    "projectSite": {
+        "address": "1355 East 21st Ave, Vancouver",
+        "mapUrl": "https://www.google.com/maps/place/1355+E+21st+Ave,+Vancouver,+BC+V5V+1T1/@49.251915,-123.0788922,17z/data=!3m1!4b1!4m5!3m4!1s0x548676ab4a7caa7d:0xd751c727fce430ee!8m2!3d49.2519115!4d-123.0767035"
+    },
+    "sales": {
+        "tel": "604.230.9899",
+        "tel2": "604.428.5000",
+        "logo": "/img/full/footer/remax.png",
+        "email": "info@liveincedarcottage.com"
+    },
+    "developer": {
+        "logo": "/img/full/footer/medallion.png",
+        "logo2": "/img/full/footer/hawthorne.png"
+    },
+    "disclaimer": "The areas and dimensions of Strata Lots set out in the marketing materials are approximate and were prepared for information and display purposes only in marketing the strata lots for pre-sale, prior to completion of construction and are not represented as being the actual final areas and dimensions. The furniture, appliances, views and locations set out in the marketing material, are artist concepts only, may include upgraded items and views not available from all strata lots. They are provided for marketing and display purposes only and are not a representation or agreement that the same will be included in the final finished strata lot.",
+    "location": [
+        {
+            "rows": [
+                {
+                    "cols": [
+                        {
+                            "title": "It’s all local",
+                            "content": "Perfectly situated between two of Vancouver’s coolest spots – Commercial Drive and Mount Pleasant – Cedar Cottage is brimming with unlimited options for you and your family to explore new passions, satisfy your cravings and enrich everyday living."
+                        },
+                        {
+                            "img": "/img/full/location/east-van.jpeg",
+                            "left": "-10%",
+                            "top": "10%",
+                            "imgPost": "right"
+                        }
+                    ]
+                },
+                {
+                    "cols": [
+                        {
+                            "img": "/img/full/location/coffee-shop.jpeg",
+                            "left": "-10%",
+                            "top": "10%",
+                            "imgPost": "left"
+                        },
+                        {
+                            "title": null,
+                            "content": "The best part? It’s all local. Walkable, bikeable, and fully accessible, you’ll love how easy it is to discover all that this bold East Vancouver neighbourhood has to offer."
+                        }
+                    ]
+                }
+            ],
+            "bgPost": "center",
+            "sectionLink": {
+                "type": "hash",
+                "to": "#map",
+                "children": "View Map",
+                "row": 2
+            },
+            "circles": [
+                {
+                    "className": "l-c1"
+                },
+                {
+                    "className": "l-c2"
+                }
+            ]
+        },
+        {
+            "rows": [
+                {
+                    "cols": [
+                        {
+                            "img": "/img/full/location/school.jpeg",
+                            "left": "-10%",
+                            "top": "10%",
+                            "imgPost": "left"
+                        },
+                        {
+                            "title": "Space to learn",
+                            "content": "Surrounded by some of the city’s best schools and a sought-after catchment that includes Charles Dickens Elementary and Sir Charles Tupper Secondary. "
+                        }
+                    ]
+                },
+                {
+                    "cols": [
+                        {
+                            "title": "Space to play",
+                            "content": "Within walking distance to Trout Lake Park, the year-round recreational hub complete with an all-inclusive community centre, picnic spots, sports fields, a bustling farmers’ market and more. "
+                        },
+                        {
+                            "img": "/img/full/location/pool.jpeg",
+                            "left": "-10%",
+                            "top": "10%",
+                            "imgPost": "right"
+                        }
+                    ]
+                }
+            ],
+            "bgPost": "left-top",
+            "sectionLink": null,
+            "circles": [
+                {
+                    "className": "l-c3"
+                }
+            ],
+            "title": "Meet Your New Neighbours"
+        },
+        {
+            "rows": [
+                {
+                    "cols": [
+                        {
+                            "img": "/img/full/location/grossery.jpeg",
+                            "left": "-10%",
+                            "top": "10%",
+                            "imgPost": "left"
+                        },
+                        {
+                            "title": "Space for essentials",
+                            "content": "Stock up on essentials and gourmet goods alike at one of the many nearby shops, like Nesters Market, Save-On-Foods and T&T Supermarket at Kensington Gardens."
+                        }
+                    ]
+                },
+                {
+                    "cols": [
+                        {
+                            "title": "Space to satisfy cravings",
+                            "content": "Dotted with hip bars and breweries, cozy cafes and brunch spots, and deliciously authentic eateries around every corner, all your cravings will be satisfied here."
+                        },
+                        {
+                            "img": "/img/full/location/plate.jpeg",
+                            "left": "-10%",
+                            "top": "10%",
+                            "imgPost": "right"
+                        }
+                    ]
+                }
+            ],
+            "bgPost": "right-bottom",
+            "sectionLink": null,
+            "circles": [
+                {
+                    "className": "l-c4"
+                },
+                {
+                    "className": "l-c5"
+                }
+            ]
+        }
+    ],
+    "pages": {
+        "home": {
+            "stackImageData": {
+                "title": "16 Sustainable Row Townhomes in a Bold East Vancouver Setting",
+                "paragraph": "Meet the Charles, a remarkable new collection of visionary row townhomes built to Passive House standards in Cedar Cottage. A vibrant neighbourhood setting brimming with possibilities in East Vancouver, within the Charles Dickens school catchment. Sustainable designs made to last. Functional family living for all of life’s moments. The Charles has all the ingredients for a future as authentic and unique as you. Be bold. Live in Cedar Cottage. Only at The Charles.",
+                "img": "/img/full/home/overview-2.jpeg",
+                "circles": [
+                    {
+                        "className": "c1"
+                    },
+                    {
+                        "className": "c2"
+                    }
+                ]
+            }
+        },
+        "homes": {
+            "stackImageData": {
+                "title": "A Fresh Approach To Function",
+                "paragraph": "<p>The Charles makes everyday living simple so you have more time to focus on what’s important. From loads of storage to smart technology and underground parking with direct access from homes, we’re bringing it all together for a better living experience.</p><p>Inside these 2 & 3 bedroom row townhomes, the practicality of Passive House principles is matched by stunning design and curated finishes that are worthy of any interior design feed. Choose from a variety of different layouts, each equally functional, spacious, and full of natural light.</p>",
+                "img": "/img/full/homes/interior1.jpeg",
+                "circles": [
+                    {
+                        "className": "homes-c1"
+                    },
+                    {
+                        "className": "homes-c2"
+                    },
+                    {
+                        "className": "homes-c3"
+                    }
+                ]
+            },
+            "section": {
+                "rows": [
+                    {
+                        "cols": [
+                            {
+                                "img": "/img/full/homes/interior2.jpeg",
+                                "left": "10%",
+                                "top": "-10%",
+                                "imgPost": "right"
+                            },
+                            {
+                                "title": "Features",
+                                "content": "With open concept designs, expansive 9 ft ceilings and an abundance of natural light, these row townhomes are bright, airy and above all, a space where you’ll feel completely at home. Contemporary finishes like quartz countertops and backsplashes, engineered hardwood flooring and porcelain tile make a style statement while also offering lasting durability and comfortable function for your family."
+                            }
+                        ]
+                    },
+                    {
+                        "cols": [
+                            {
+                                "img": "/img/full/homes/exterior.jpeg",
+                                "left": "-5%",
+                                "top": "-5%",
+                                "imgPost": "left"
+                            },
+                            {
+                                "img": "/img/full/homes/interior3.jpeg",
+                                "left": "-5%",
+                                "top": "-5%",
+                                "imgPost": "right"
+                            }
+                        ]
+                    }
+                ],
+                "bgPost": "top",
+                "sectionLink": {
+                    "type": "ext",
+                    "to": "/pdfs/Features.pdf",
+                    "children": "View Full Features"
+                },
+                "circles": [
+                    {
+                        "className": "homes-c4"
+                    },
+                    {
+                        "className": "homes-c5"
+                    }
+                ]
+            }
+        },
+        "built": {
+            "fiveCornerstones": [
+                "Superior insulated exterior walls",
+                "Airtight construction",
+                "High-performance triple glazed windows",
+                "Thermal bridge free design and construction",
+                "Ventilation with highly efficient heat and energy recovery"
+            ],
+            "benifits": [
+                "Extremely low heating and cooling costs",
+                "Consistent fresh air throughout homes for a healthier",
+                "indoor environment",
+                "Structural longevity with reduced risk of moisture damage",
+                "Reduced carbon emissions",
+                "Noise reduction"
+            ]
+        },
+        "team": [
+            {
+                "title": "Developed by Medallion Homes & Hawthorne Developments",
+                "logo": [
+                    "medallion.png",
+                    "hawthorne.png"
+                ],
+                "description": "<p>Combining decades of experience and industry-leading talent, Medallion Homes and Hawthorne Developments are bringing The Charles to the vibrant neighbourhood of Cedar Cottage.</p><p>Medallion Homes has been building high-quality homes in East Vancouver for the past decade, while Hawthorne Developments has built homes in the prestigious areas of Shaughnessy and West Vancouver for over 25 years. With a shared passion for delivering unparalleled quality homes, Medallion Homes and Hawthorne Developments is an ideal partnership. Both companies have procured and cultivated a team of experts to make their clients’ visions become a perfect reality. </p><p>When Medallion Homes and Hawthorne Developments first started conceptualizing The Charles, they knew it was vital to enter into partnerships with companies whose work ethics, expertise, and high standards aligned with their own. With this spirit in mind, they’ve brought together a team of the industry’s best. </p>"
+            },
+            {
+                "title": "In Building Partnership with Edge Construction",
+                "logo": [
+                    "edge.png"
+                ],
+                "description": "<p>As a group of diverse construction and design professionals, Edge Construction delivers exceptional quality on every project and builds lifelong, enduring relationships with every client. First established in 2011, today they are a multi-project, multi-sector firm that employs over 35 professionals with a wide range of expertise. At the core of their culture and performance are values of integrity, quality, and reliability. When combined with their passion for technology and innovative approach to construction, they deliver quality projects that transform communities for the future. </p>"
+            },
+            {
+                "title": "Cornerstone Architecture",
+                "logo": [
+                    "cornerstones.png"
+                ],
+                "description": "<p>As a Vancouver-based architectural firm with almost 40 years of history, Cornerstone Architecture has a broad range of experience designing and developing commercial and residential projects of all shapes and sizes. Amongst their many talents, they are uniquely experienced in and committed to Passive House design. Across Canada, they are recognized as the foremost architectural firm capable of designing multi-unit residential projects to Passive House standards. </p>"
+            },
+            {
+                "title": "Design Living Interiors",
+                "logo": [
+                    "designliving.png"
+                ],
+                "description": "<p>Design Living Interiors is a full-service interior design firm specializing in bespoke spaces that meet your needs, complement your style, and enhance your everyday living experience. Underpinning all of their designs is the strong belief that a home influences the way you live and as such needs to be both functional and beautiful. They’ve been tapped to create stunning interior spaces at The Charles that do just that – perfectly blending effortless function with timeless beauty.</p>"
+            },
+            {
+                "title": "The Ron Basra Real Estate Group",
+                "logo": [
+                    "ron-basra.png"
+                ],
+                "description": "<p>With a strong passion for real estate and award-winning service, the Ron Basra Real Estate Group is a full-service real estate firm and experts in new boutique construction. They have a niche understanding of the East Vancouver market, particularly with the Mount Pleasant & Cedar Cottage neighbourhoods. From finding and purchasing the perfect land to assisting with the design, build, and sale of new boutique projects, they are intricately involved in the entire process, sharing their passion for high standards with all those involved.</p>"
+            }
+        ]
+    },
+    "plans": [
+        {
+            "id": "plan_a",
+            "title": "Plan A",
+            "type": "3 Bedroom + Den + Flex",
+            "pdf": "/pdfs/FloorPlan_Plan_A.pdf"
+        },
+        {
+            "id": "plan_b",
+            "title": "Plan B",
+            "type": "3 Bedroom + Den + Flex",
+            "pdf": "/pdfs/FloorPlan_Plan_B.pdf"
+        },
+        {
+            "id": "plan_c",
+            "title": "Plan C",
+            "type": "3 Bedroom + Den + Flex",
+            "pdf": "/pdfs/FloorPlan_Plan_C.pdf"
+        },
+        {
+            "id": "plan_d",
+            "title": "Plan D",
+            "type": "3 Bedroom + Den + Flex",
+            "pdf": "/pdfs/FloorPlan_Plan_D.pdf"
+        },
+        {
+            "id": "plan_e",
+            "title": "Plan E",
+            "type": "2 Bedroom + Den",
+            "pdf": "/pdfs/FloorPlan_Plan_E.pdf"
+        }
+    ],
+    "map": {
+        "markerColors": {
+            "Shopping & Amenities": "#0D64A9",
+            "Dining": "#EC268F",
+            "Education": "#F58634",
+            "Parks & Recreation": "#00A859"
+        },
+        "styles": [
+            {
+                "featureType": "all",
+                "elementType": "labels.text.fill",
+                "stylers": [
+                    {
+                        "saturation": 36
+                    },
+                    {
+                        "color": "#333333"
+                    },
+                    {
+                        "lightness": 40
+                    }
+                ]
+            },
+            {
+                "featureType": "all",
+                "elementType": "labels.text.stroke",
+                "stylers": [
+                    {
+                        "visibility": "on"
+                    },
+                    {
+                        "color": "#ffffff"
+                    },
+                    {
+                        "lightness": 16
+                    }
+                ]
+            },
+            {
+                "featureType": "all",
+                "elementType": "labels.icon",
+                "stylers": [
+                    {
+                        "visibility": "off"
+                    }
+                ]
+            },
+            {
+                "featureType": "administrative",
+                "elementType": "geometry.fill",
+                "stylers": [
+                    {
+                        "color": "#efe4d7"
+                    },
+                    {
+                        "lightness": 20
+                    }
+                ]
+            },
+            {
+                "featureType": "administrative",
+                "elementType": "geometry.stroke",
+                "stylers": [
+                    {
+                        "color": "#fefefe"
+                    },
+                    {
+                        "lightness": 17
+                    },
+                    {
+                        "weight": 1.2
+                    }
+                ]
+            },
+            {
+                "featureType": "landscape",
+                "elementType": "geometry",
+                "stylers": [
+                    {
+                        "color": "#f5f5f5"
+                    },
+                    {
+                        "lightness": 20
+                    }
+                ]
+            },
+            {
+                "featureType": "landscape.man_made",
+                "elementType": "geometry.fill",
+                "stylers": [
+                    {
+                        "color": "#efe4d7"
+                    }
+                ]
+            },
+            {
+                "featureType": "landscape.natural",
+                "elementType": "geometry.fill",
+                "stylers": [
+                    {
+                        "color": "#dae8c4"
+                    }
+                ]
+            },
+            {
+                "featureType": "poi",
+                "elementType": "geometry",
+                "stylers": [
+                    {
+                        "color": "#f5f5f5"
+                    },
+                    {
+                        "lightness": 21
+                    }
+                ]
+            },
+            {
+                "featureType": "poi",
+                "elementType": "geometry.fill",
+                "stylers": [
+                    {
+                        "color": "#efe4d7"
+                    }
+                ]
+            },
+            {
+                "featureType": "poi.park",
+                "elementType": "geometry",
+                "stylers": [
+                    {
+                        "color": "#dedede"
+                    },
+                    {
+                        "lightness": 21
+                    }
+                ]
+            },
+            {
+                "featureType": "road",
+                "elementType": "geometry.fill",
+                "stylers": [
+                    {
+                        "color": "#ff0000"
+                    }
+                ]
+            },
+            {
+                "featureType": "road.highway",
+                "elementType": "geometry.fill",
+                "stylers": [
+                    {
+                        "color": "#ffffff"
+                    },
+                    {
+                        "lightness": 17
+                    }
+                ]
+            },
+            {
+                "featureType": "road.highway",
+                "elementType": "geometry.stroke",
+                "stylers": [
+                    {
+                        "color": "#ffffff"
+                    },
+                    {
+                        "lightness": 29
+                    },
+                    {
+                        "weight": 0.2
+                    }
+                ]
+            },
+            {
+                "featureType": "road.arterial",
+                "elementType": "geometry",
+                "stylers": [
+                    {
+                        "color": "#ffffff"
+                    },
+                    {
+                        "lightness": 18
+                    }
+                ]
+            },
+            {
+                "featureType": "road.local",
+                "elementType": "geometry",
+                "stylers": [
+                    {
+                        "color": "#ffffff"
+                    },
+                    {
+                        "lightness": 16
+                    }
+                ]
+            },
+            {
+                "featureType": "transit",
+                "elementType": "geometry",
+                "stylers": [
+                    {
+                        "color": "#f2f2f2"
+                    },
+                    {
+                        "lightness": 19
+                    }
+                ]
+            },
+            {
+                "featureType": "transit",
+                "elementType": "geometry.fill",
+                "stylers": [
+                    {
+                        "color": "#ffffff"
+                    }
+                ]
+            },
+            {
+                "featureType": "water",
+                "elementType": "geometry",
+                "stylers": [
+                    {
+                        "color": "#e9e9e9"
+                    },
+                    {
+                        "lightness": 17
+                    }
+                ]
+            },
+            {
+                "featureType": "water",
+                "elementType": "geometry.fill",
+                "stylers": [
+                    {
+                        "color": "#e9f0ff"
+                    }
+                ]
+            }
+        ],
+        "mapOptions": {
+            "center": {
+                "lat": 49.2519042,
+                "lng": -123.0768173
+            },
+            "zoom": 15,
+            "disableDefaultUI": true,
+            "zoomControl": true
+        },
+        "markers": {
+            "Shopping & Amenities": [
+                {
+                    "title": "Save-On-Foods",
+                    "coordinates": [
+                        49.24874,
+                        -123.07581
+                    ],
+                    "label": "1"
+                },
+                {
+                    "title": "Famous Foods",
+                    "coordinates": [
+                        49.24831,
+                        -123.07154
+                    ],
+                    "label": "2"
+                },
+                {
+                    "title": "T&T Supermarket",
+                    "coordinates": [
+                        49.24295,
+                        -123.06134
+                    ],
+                    "label": "3"
+                },
+                {
+                    "title": "Dean's No Frills",
+                    "coordinates": [
+                        49.24454,
+                        -123.08977
+                    ],
+                    "label": "4"
+                },
+                {
+                    "title": "88 Supermarket",
+                    "coordinates": [
+                        49.24129,
+                        -123.06549
+                    ],
+                    "label": "5"
+                },
+                {
+                    "title": "Shoppers Drug Mart",
+                    "coordinates": [
+                        49.24118,
+                        -123.05734
+                    ],
+                    "label": "6"
+                },
+                {
+                    "title": "Flourist Bakery",
+                    "coordinates": [
+                        49.25391,
+                        -123.06825
+                    ],
+                    "label": "7"
+                },
+                {
+                    "title": "Trout Lake Farmer's Market",
+                    "coordinates": [
+                        49.25801,
+                        -123.06165
+                    ],
+                    "label": "8"
+                },
+                {
+                    "title": "Kim’s Mart",
+                    "coordinates": [
+                        49.26265,
+                        -123.09242
+                    ],
+                    "label": "9"
+                },
+                {
+                    "title": "Front & Company",
+                    "coordinates": [
+                        49.25134,
+                        -123.10063
+                    ],
+                    "label": "10"
+                },
+                {
+                    "title": "Welk's",
+                    "coordinates": [
+                        49.25352,
+                        -123.10117
+                    ],
+                    "label": "11"
+                },
+                {
+                    "title": "Lowe's Home Improvement",
+                    "coordinates": [
+                        49.2597,
+                        -123.04783
+                    ],
+                    "label": "12"
+                },
+                {
+                    "title": "Cedar Cottage Liquor Store",
+                    "coordinates": [
+                        49.25152,
+                        -123.07819
+                    ],
+                    "label": "13"
+                },
+                {
+                    "title": "Jackson’s General",
+                    "coordinates": [
+                        49.24885,
+                        -123.07382
+                    ],
+                    "label": "14"
+                }
+            ],
+            "Dining": [
+                {
+                    "title": "Earnest Ice Cream",
+                    "coordinates": [
+                        49.24934,
+                        -123.08992
+                    ],
+                    "label": "1"
+                },
+                {
+                    "title": "Le Marché St. George",
+                    "coordinates": [
+                        49.24576,
+                        -123.09443
+                    ],
+                    "label": "2"
+                },
+                {
+                    "title": "Bandidas Taqueria",
+                    "coordinates": [
+                        49.25978,
+                        -123.07005
+                    ],
+                    "label": "3"
+                },
+                {
+                    "title": "Published on Main",
+                    "coordinates": [
+                        49.252856,
+                        -123.101146
+                    ],
+                    "label": "4"
+                },
+                {
+                    "title": "Sun Sui Wah Seafood Restaurant Vancouver",
+                    "coordinates": [
+                        49.25038,
+                        -123.10077
+                    ],
+                    "label": "5"
+                },
+                {
+                    "title": "MeeT on Main",
+                    "coordinates": [
+                        49.24672,
+                        -123.10099
+                    ],
+                    "label": "6"
+                },
+                {
+                    "title": "Anh and Chi",
+                    "coordinates": [
+                        49.25498,
+                        -123.10085
+                    ],
+                    "label": "7"
+                },
+                {
+                    "title": "Bon's Off Broadway",
+                    "coordinates": [
+                        49.26267,
+                        -123.05706
+                    ],
+                    "label": "8"
+                },
+                {
+                    "title": "Starbucks Coffee",
+                    "coordinates": [
+                        49.263692,
+                        -123.100106
+                    ],
+                    "label": "9"
+                },
+                {
+                    "title": "Catoro Cafe",
+                    "coordinates": [
+                        49.26221,
+                        -123.08961
+                    ],
+                    "label": "10"
+                },
+                {
+                    "title": "Trafiq Cafe and Bakery",
+                    "coordinates": [
+                        49.24732,
+                        -123.1009
+                    ],
+                    "label": "11"
+                },
+                {
+                    "title": "Pallet Coffee Roasters",
+                    "coordinates": [
+                        49.250525,
+                        -123.076245
+                    ],
+                    "label": "12"
+                },
+                {
+                    "title": "White Spot",
+                    "coordinates": [
+                        49.249,
+                        -123.0742
+                    ],
+                    "label": "13"
+                },
+                {
+                    "title": "Gram Café & Pancakes",
+                    "coordinates": [
+                        49.24292,
+                        -123.06098
+                    ],
+                    "label": "14"
+                },
+                {
+                    "title": "Osteria Savio Volpe",
+                    "coordinates": [
+                        49.25744,
+                        -123.09094
+                    ],
+                    "label": "15"
+                }
+            ],
+            "Education": [
+                {
+                    "title": "Charles Dickens Elementary School (Catchment)",
+                    "coordinates": [
+                        49.25501,
+                        -123.08312
+                    ],
+                    "label": "1"
+                },
+                {
+                    "title": "Sir Charles Tupper Secondary School (Catchment)",
+                    "coordinates": [
+                        49.24966,
+                        -123.09479
+                    ],
+                    "label": "2"
+                },
+                {
+                    "title": "Vancouver Technical Secondary School (French Immersion)",
+                    "coordinates": [
+                        49.26155,
+                        -123.05168
+                    ],
+                    "label": "3"
+                },
+                {
+                    "title": "Laura Secord Elementary School (French Immersion)",
+                    "coordinates": [
+                        49.26175,
+                        -123.06167
+                    ],
+                    "label": "4"
+                },
+                {
+                    "title": "Stratford Hall",
+                    "coordinates": [
+                        49.25759,
+                        -123.06959
+                    ],
+                    "label": "5"
+                },
+                {
+                    "title": "VCC - Broadway Campus",
+                    "coordinates": [
+                        49.26334,
+                        -123.08087
+                    ],
+                    "label": "6"
+                },
+                {
+                    "title": "Kensington Library",
+                    "coordinates": [
+                        49.24913,
+                        -123.07551
+                    ],
+                    "label": "7"
+                },
+                {
+                    "title": "Little Fish Daycare",
+                    "coordinates": [
+                        49.25523,
+                        -123.05753
+                    ],
+                    "label": "8"
+                },
+                {
+                    "title": "Circus Play Café",
+                    "coordinates": [
+                        49.25928,
+                        -123.0705
+                    ],
+                    "label": "9"
+                }
+            ],
+            "Parks & Recreation": [
+                {
+                    "title": "John Hendry Park (Trout Lake Park)",
+                    "coordinates": [
+                        49.2578,
+                        -123.05936
+                    ],
+                    "label": "1"
+                },
+                {
+                    "title": "Trout Lake Community Centre & Skating Rink",
+                    "coordinates": [
+                        49.25536,
+                        -123.06534
+                    ],
+                    "label": "2"
+                },
+                {
+                    "title": "Kingcrest Park",
+                    "coordinates": [
+                        49.24746,
+                        -123.07399
+                    ],
+                    "label": "3"
+                },
+                {
+                    "title": "Italian Cultural Centre",
+                    "coordinates": [
+                        49.25686,
+                        -123.05042
+                    ],
+                    "label": "4"
+                },
+                {
+                    "title": "Clark Park",
+                    "coordinates": [
+                        49.25726,
+                        -123.07364
+                    ],
+                    "label": "5"
+                },
+                {
+                    "title": "Glen Park",
+                    "coordinates": [
+                        49.24956,
+                        -123.08289
+                    ],
+                    "label": "6"
+                },
+                {
+                    "title": "Anytime Fitness",
+                    "coordinates": [
+                        49.24935,
+                        -123.07495
+                    ],
+                    "label": "7"
+                },
+                {
+                    "title": "Brewers Park",
+                    "coordinates": [
+                        49.24772,
+                        -123.06643
+                    ],
+                    "label": "8"
+                },
+                {
+                    "title": "Sunnyside Park",
+                    "coordinates": [
+                        49.254924,
+                        -123.080845
+                    ],
+                    "label": "9"
+                }
+            ]
+        }
+    }
+}
